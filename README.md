@@ -1,3 +1,5 @@
+<div align="center">
+
 <!-- Animated Header -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Hemanth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
