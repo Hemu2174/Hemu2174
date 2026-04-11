@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=Full+Stack+Developer+💻;MERN+Stack+Developer+⚡;AI/ML+Enthusiast+🤖;React+Developer+⚛️;Web+Developer+🌐" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=Full+Stack+Developer+💻;AI/ML+Enthusiast+🤖;React+Developer+⚛️;Web+Developer+🌐" />
 
 <br>
 
@@ -18,6 +18,12 @@
   </a>
   <a href="mailto:k.hemanth2174@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/kattamuri_hemanth_2174/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/khemant8xnw">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
