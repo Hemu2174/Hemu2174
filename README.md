@@ -40,7 +40,7 @@ const hemanth = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     currentFocus: "AI & ML",
-    learning: ["MERN Stack", "Django"],
+    learning: ["MERN Stack"],
     interests: ["Web Development", "AI/ML"],
     motto: "Code. Debug. Repeat.",
     
