@@ -110,17 +110,10 @@ const hemanth = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hemu2174&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=Hemu2174&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hemu2174&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=Hemu2174&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
