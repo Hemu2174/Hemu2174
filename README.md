@@ -77,6 +77,17 @@ const hemanth = {
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
+
+### 🤖 AI / ML & Generative AI
+
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Deep_Learning-412991?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=googledocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_AI-7B42F6?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-00A6ED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+
 ### 🗄️ Database
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -98,19 +109,18 @@ const hemanth = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hemu2174&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hemu2174&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=Hemu2174&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Hemu2174&theme=tokyonight&hide_border=true" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemu2174&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hemu2174&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
